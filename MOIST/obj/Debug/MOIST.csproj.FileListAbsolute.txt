@@ -1,0 +1,10 @@
+E:\c#\MOIST\MOIST\obj\Debug\MOIST.csprojAssemblyReference.cache
+E:\c#\MOIST\MOIST\obj\Debug\MOIST.csproj.GenerateResource.cache
+E:\c#\MOIST\MOIST\obj\Debug\MOIST.csproj.CoreCompileInputs.cache
+E:\c#\MOIST\MOIST\obj\Debug\MOIST.Form1.resources
+E:\c#\MOIST\MOIST\bin\Debug\SCRAIL.exe.config
+E:\c#\MOIST\MOIST\bin\Debug\SCRAIL.exe
+E:\c#\MOIST\MOIST\bin\Debug\SCRAIL.pdb
+E:\c#\MOIST\MOIST\obj\Debug\SCRAIL.Properties.Resources.resources
+E:\c#\MOIST\MOIST\obj\Debug\SCRAIL.exe
+E:\c#\MOIST\MOIST\obj\Debug\SCRAIL.pdb
